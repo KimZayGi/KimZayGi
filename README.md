@@ -2,7 +2,9 @@
 ### Hi there 👋 
 
 --Encabezado pendiente--
-![header]>(/KimZayGi/Encabezado.png)
+
+![header](/Encabezado.png)
+
 --Espacio para enlazar tus perfiles--
 Si quieres seguirme, aquí te dejo mis redes:
 
