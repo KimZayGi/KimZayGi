@@ -2,7 +2,7 @@
 ### Hi there 👋 
 
 --Encabezado pendiente--
-![header]>(/Zahira perez.png)
+![header]>(/KimZayGi/Encabezado.png)
 --Espacio para enlazar tus perfiles--
 Si quieres seguirme, aquí te dejo mis redes:
 
