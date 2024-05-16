@@ -8,10 +8,9 @@
 --Espacio para enlazar tus perfiles--
 Si quieres seguirme, aquí te dejo mis redes:
 
-* LinkedIn
+* [LinkedIn](https://www.linkedin.com/in/zahira-perez-bravo/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BXlg5p04UR%2B2yhhjnE%2FjQ4Q%3D%3D)
 * Github
 * Instagram
-* Facebook
 
 --Escribe acerca de ti--
 Desde hace algunos años por cuestiones de la vida, deje de trabajar en el ramo de la Tecnología. Me enfoque al ramo bancario y financiero. Actualmente me encuentro refrescando mis conocimientos en el área de programación, despues de algun tiempo de no trabajar en ello. Aún cuando no he ejercido mi profesión, tengo los siguientes conocimientos:
