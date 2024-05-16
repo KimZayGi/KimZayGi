@@ -1,4 +1,4 @@
-<!--Saluda-->`#ffffff`
+<!--Saluda-->
 ### Hi everyone 👋 
 
 <!--Encabezado -->
