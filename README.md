@@ -3,7 +3,7 @@
 
 <!--Encabezado -->
 
-![header](/Encabezado.png)
+![header](/Encabezado2.png)
 
 <!--Espacio para enlazar tus perfiles-->
 Si quieres seguirme, aquí te dejo mis redes:
