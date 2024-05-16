@@ -32,7 +32,7 @@ En cuanto a tecnologías que actualmente uso, solo son las que se requieren en m
 <!--Foto pendiente-->
 
 <!--Agrega una breve descripción-->
-Habla sobre tus habilidades y sobre los lenguajes que domines.--
+Habla sobre tus habilidades y sobre los lenguajes que domines
 
 * Puerto Vallarta, Jal.
 * KimZayGi
